@@ -383,7 +383,9 @@
 
 
 
-以下教程出自hardforum网站，本文仅为个人翻译，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。
+# 下面开始教程：
+
+**以下教程出自hardforum网站，本文仅为个人翻译，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
 
 ## GSI安装前准备：
 
