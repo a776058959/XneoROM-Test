@@ -58,7 +58,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><b><span lang="EN-US" style="font-size:16.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></b></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></b></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2;height:18.0pt">
@@ -124,7 +124,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -133,7 +133,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -142,7 +142,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:5;height:18.0pt">
@@ -210,7 +210,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -219,7 +219,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -228,7 +228,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:8;height:18.0pt">
@@ -294,7 +294,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -303,7 +303,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -312,7 +312,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:11;height:18.0pt">
@@ -350,7 +350,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -359,7 +359,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
@@ -368,7 +368,7 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-layout-grid-align:
   none;text-autospace:none"><span lang="EN-US" style="font-size:11.0pt;
   mso-ascii-font-family:等线;mso-fareast-font-family:等线;mso-bidi-font-family:
-  等线;color:black;mso-font-kerning:0pt"><o:p>&nbsp;</o:p></span></p>
+  等线;color:black;mso-font-kerning:0pt"><o:p> </o:p></span></p>
   </td>
  </tr>
 </tbody></table>
@@ -381,11 +381,9 @@
 
 - PixelExperience_Plus_arm64-ab-12.1-20221118-UNOFFICIAL
 
-
-
 # 下面开始教程：
 
-**以下教程出自hardforum网站，本文仅为个人翻译，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
+**以下教程出自hardforum网站，本文为个人翻译和修改，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
 
 ## 由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。
 
