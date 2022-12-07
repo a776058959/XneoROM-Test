@@ -387,7 +387,7 @@
 
 **以下教程出自hardforum网站，本文仅为个人翻译，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
 
-## 由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，所以以下用到的链接替换为国内网盘地址)
+## 由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。
 
 <div class="WordSection1" style="layout-grid:15.6pt">
 
