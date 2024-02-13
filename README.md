@@ -15,7 +15,7 @@
 
 ## 基础固件刷入（EMMC版本MiFlash刷入）
 
-1.下载[EDL/9008驱动程序](https://wwzg.lanzoue.com/ihJ1p0i0ktyh)、[MiFlash](ttps://cdn.alsgp0.fds.api.mi-img.com/micomm/MiFlash2020-3-14-0.rar)和[modified_global_stock_6gb_with_twrp_v3](https://jmj.cc/s/0cns7baw)固件。(默认是百度网盘，[飞猫盘](https://jmj.cc/s/0cns7baw)点这里，其他网盘看情况更新。或者去原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘)
+1.下载**EDL/9008驱动**[蓝奏盘](https://wwzg.lanzoue.com/ihJ1p0i0ktyh)链接。或[Github](https://github.com/a776058959/XneoROM-Test/blob/main/%E6%89%93%E5%BC%80CMD%E5%91%BD%E4%BB%A4%E8%A1%8C.rar)链接、下载[MiFlash](ttps://cdn.alsgp0.fds.api.mi-img.com/micomm/MiFlash2020-3-14-0.rar)和[modified_global_stock_6gb_with_twrp_v3](https://jmj.cc/s/0cns7baw)固件。(默认是百度网盘，[飞猫盘](https://jmj.cc/s/0cns7baw)点这里，其他网盘看情况更新。或者去原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘)
 
 2.使用解压软件将每个文件解压缩到单独的文件夹中。
 
@@ -51,7 +51,7 @@
 
 ## 刷入GSI 固件
 
-1.下载[ADB](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)工具包 并解压后进入该文件夹，然后下载[批处理](https://www.feimaoyun.com/s/z38ea7)并解压放入ADB工具包文件夹。
+1.下载[ADB](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)工具包 并解压后进入该文件夹，然后下载[批处理-飞猫盘](https://www.feimaoyun.com/s/z38ea7)或[批处理-Github](https://github.com/a776058959/XneoROM-Test/blob/main/%E6%89%93%E5%BC%80CMD%E5%91%BD%E4%BB%A4%E8%A1%8C.rar)并解压放入ADB工具包文件夹。
 
 2.确保文件夹内至少有“**adb.exe**”和“**fastboot.exe**”和“**打开CMD命令行.bat**”。
 
