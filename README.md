@@ -381,78 +381,73 @@
 
 - PixelExperience_Plus_arm64-ab-12.1-20221118-UNOFFICIAL
 
-# 下面开始教程：
+
+# X NEO GSI 测试列表
+
+测试列表[点此](https://github.com/a776058959/XneoROM-Test/Testlist.md)打开
+
+## 教程正文
 
 **以下教程出自hardforum网站，本文为个人翻译和修改，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
 
-## 由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。
+**由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。**
 
-<div class="WordSection1" style="layout-grid:15.6pt">
+- [酷比魔方 X NEO ROM-Test list](#酷比魔方-x-neo-rom-test-list)
+- [X NEO GSI 测试列表](#x-neo-gsi-测试列表)
+  - [教程正文](#教程正文)
+  - [基础固件刷入（EMMC版本MiFlash刷入）](#基础固件刷入emmc版本miflash刷入)
+  - [刷入GSI 固件](#刷入gsi-固件)
 
-<p class="MsoNormal"><b><span style="font-size:18.0pt;font-family:"微软雅黑",sans-serif">基础固件刷入（<span lang="EN-US">EMMC</span>版本<span class="SpellE"><span lang="EN-US">MiFlash</span></span>刷入）<span lang="EN-US"><o:p></o:p></span></span></b></p>
+## 基础固件刷入（EMMC版本MiFlash刷入）
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">1.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">下载</span><span lang="EN-US"><a href="https://wwzg.lanzoue.com/ihJ1p0i0ktyh"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">EDL/9008</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif"><span lang="EN-US">驱动程序</span></span></a></span><span style="mso-bidi-font-size:10.5pt;
-font-family:"微软雅黑",sans-serif">、</span><span lang="EN-US"><a href="https://cdn.alsgp0.fds.api.mi-img.com/micomm/MiFlash2020-3-14-0.rar"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">MiFlash</span></a></span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">和</span><span lang="EN-US"><a href="https://pan.baidu.com/s/1enYVF_DyKefsfDFRqbEGMw?pwd=eanb"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">modified_global_stock_6gb_with_twrp_v3</span></a></span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">固件。<span lang="EN-US">(</span>默认是百度网盘，<span lang="EN-US"><a href="https://jmj.cc/s/0cns7baw"><span lang="EN-US"><span lang="EN-US">飞猫<span lang="EN-US">盘</span></span></span></a></span>点这里，<span class="GramE">其他网盘看</span>情况更新。或者去原作者</span><span lang="EN-US"><a href="https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">MEGA</span><span class="GramE"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif"><span lang="EN-US">网盘</span></span></span></a></span><span lang="EN-US" style="mso-bidi-font-size:
-10.5pt;font-family:"微软雅黑",sans-serif">)<o:p></o:p></span></p>
+1.下载[EDL/9008驱动程序](https://wwzg.lanzoue.com/ihJ1p0i0ktyh)、[MiFlash](ttps://cdn.alsgp0.fds.api.mi-img.com/micomm/MiFlash2020-3-14-0.rar)和[modified_global_stock_6gb_with_twrp_v3](https://jmj.cc/s/0cns7baw)固件。(默认是百度网盘，[飞猫盘](https://jmj.cc/s/0cns7baw)点这里，其他网盘看情况更新。或者去原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘)
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">2.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">使用解压软件将每个文件解压缩到单独的文件夹中。<span lang="EN-US"><o:p></o:p></span></span></p>
+2.使用解压软件将每个文件解压缩到单独的文件夹中。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">3.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">在解压好的<span lang="EN-US" style="background:yellow;mso-highlight:yellow">modified_global_stock_6gb_with_twrp</span>文件夹中删除<span lang="EN-US" style="background:yellow;mso-highlight:yellow">prog_emmc_ufs_firehose_Sdm660_ddr.elf</span><span lang="EN-US"> </span>和 <span lang="EN-US" style="background:yellow;mso-highlight:
-yellow">prog_emmc_ufs_firehose_Sdm660_lite.elf</span><span lang="EN-US"><o:p></o:p></span></span></p>
+3.在解压好的**modified_global_stock_6gb_with_twrp**文件夹中删除**prog_emmc_ufs_firehose_Sdm660_ddr.elf** 和 **prog_emmc_ufs_firehose_Sdm660_lite.elf**
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">4.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">安装<span lang="EN-US">EDL/9008</span>驱动程序。<span lang="EN-US"><o:p></o:p></span></span></p>
+4.安装EDL/9008驱动程序。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">5.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">运行<span lang="EN-US">XiaoMiFlash.exe<o:p></o:p></span></span></p>
+5.运行XiaoMiFlash.exe
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">6.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">如果出现<span lang="EN-US">“couldn’t find flash script”</span>，忽略并点击<span lang="EN-US">“</span>确定<span lang="EN-US">”</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+6.如果出现“couldn’t find flash script”，忽略并点击“确定”。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">7.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">点击<span lang="EN-US">“</span>选择<span lang="EN-US">”</span>找到<span lang="EN-US" style="background:yellow;mso-highlight:yellow">modified_global_stock_6gb_with_twrp</span>文件夹。选择并点击<span lang="EN-US">“</span>确定<span lang="EN-US">”</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+7.点击“选择”找到**modified_global_stock_6gb_with_twrp**文件夹。选择并点击“确定”。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">8.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">点击<span lang="EN-US">Configuration</span>，然后点击<span lang="EN-US"> <span class="SpellE">MiFlash</span>
-Configuration</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+8.点击Configuration，然后点击 MiFlash Configuration。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">9.RawProgram
-xml</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">里选择<span lang="EN-US">“RawProgram_unsparse.xml”</span>，<span lang="EN-US">Patch xml</span>里选择<span lang="EN-US">“patch0.xml”</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+9.RawProgram xml里选择“RawProgram_unsparse.xml”，Patch xml里选择“patch0.xml”。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">10.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">单击<span lang="EN-US">“ok”</span>退出<span class="SpellE"><span lang="EN-US">MiFlash</span></span>配置。<span lang="EN-US"><o:p></o:p></span></span></p>
+10.单击“ok”退出MiFlash配置。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">11.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">将<span lang="EN-US">X Neo</span>连接到电脑<span lang="EN-US">(Windows</span>系统<span lang="EN-US">)</span>，并将<span lang="EN-US">USB-C</span>电缆连接到<span lang="EN-US">USB</span>端口<span lang="EN-US">(</span>尽量用<span lang="EN-US">USB3.X</span>的口<span lang="EN-US">)</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+11.将X Neo连接到电脑(Windows系统)，并将USB-C电缆连接到USB端口(尽量用USB3.X的口)。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">12.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">将<span lang="EN-US">X Neo</span>完全断电。<span lang="EN-US">(</span>不需要完全断电也可以，但要多试几次，保证下两条情况依次出现<span lang="EN-US">)</span>。<span lang="EN-US"><o:p></o:p></span></span></p>
+12.将X Neo完全断电。(不需要完全断电也可以，但要多试几次，保证下两条情况依次出现)。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">13.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">按住电源<span lang="EN-US">+</span>音量加<span lang="EN-US">+</span>音量减，直到屏幕保持黑色。<span lang="EN-US"><o:p></o:p></span></span></p>
+13.按住电源+音量加+音量减，直到屏幕保持黑色。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">14.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">点击加载设备以在设备栏中识别到<span lang="EN-US">COMXX</span>端口。<span lang="EN-US"><o:p></o:p></span></span></p>
+14.点击加载设备以在设备栏中识别到COMXX端口。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">15.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">点击刷机开始刷机，如果报错提示缺少<span lang="EN-US">XXXXXXXX.bat</span>的文件，检查第<span lang="EN-US">9</span>步是不是选择错了。<span lang="EN-US"><o:p></o:p></span></span></p>
+15.点击刷机开始刷机，如果报错提示缺少XXXXXXXX.bat的文件，检查第9步是不是选择错了。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">16.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">等待显示<span lang="EN-US">success</span>说明刷写完成。<span lang="EN-US"><o:p></o:p></span></span></p>
+16.等待显示success说明刷写完成。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">17.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">刷机完成之后，准备工作就到此完成，如果想用官方系统，那就到此为止按住电源键<span class="GramE">重启即可</span>，<span class="GramE">如果想刷</span><span lang="EN-US">GSI</span>那就继续往下看。<span lang="EN-US"><o:p></o:p></span></span></p>
+17.刷机完成之后，准备工作就到此完成，如果想用官方系统，那就到此为止按住电源键重启即可，如果想刷GSI那就继续往下看。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif"><o:p> </o:p></span></p>
+## 刷入GSI 固件
 
-<p class="MsoNormal"><b><span style="font-size:18.0pt;font-family:"微软雅黑",sans-serif">刷入<span lang="EN-US">GSI </span>固件</span></b><span lang="EN-US" style="mso-bidi-font-size:
-10.5pt;font-family:"微软雅黑",sans-serif"><o:p></o:p></span></p>
+1.下载[ADB](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)工具包 并解压后进入该文件夹，然后下载[批处理](https://www.feimaoyun.com/s/z38ea7)并解压放入ADB工具包文件夹。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">1.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">下载</span><span lang="EN-US"><a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">ADB</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif"><span lang="EN-US">工具包</span></span></a></span><span lang="EN-US" style="mso-bidi-font-size:
-10.5pt;font-family:"微软雅黑",sans-serif"> </span><span style="mso-bidi-font-size:
-10.5pt;font-family:"微软雅黑",sans-serif">并解压后进入该文件夹，然后下载</span><span lang="EN-US"><a href="https://jmj.cc/s/z38ea7"><span lang="EN-US" style="mso-bidi-font-size:
-10.5pt;font-family:"微软雅黑",sans-serif"><span lang="EN-US">批处理</span></span></a></span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">并解压放入<span lang="EN-US">ADB</span>工具包文件夹。<span lang="EN-US"><o:p></o:p></span></span></p>
+2.确保文件夹内至少有“**adb.exe**”和“**fastboot.exe**”和“**打开CMD命令行.bat**”。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">2.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">确保文件夹内至少有“<b><span lang="EN-US" style="background:lightgrey;mso-highlight:lightgrey">adb.exe</span></b>”和“<b><span lang="EN-US" style="background:lightgrey;mso-highlight:lightgrey">fastboot.exe</span></b>”和“<b><span style="background:lightgrey;mso-highlight:lightgrey">打开<span lang="EN-US">CMD</span>命令行<span lang="EN-US">.bat</span></span></b>”。<span lang="EN-US"><o:p></o:p></span></span></p>
+3.将下载的GSI固件解压，把里面xxxx.img名字的固件包也放入此文件夹。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">3.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">将下载的<span lang="EN-US">GSI</span>固件解压，把里面<span class="SpellE"><span lang="EN-US">xxxx.img</span></span>名字的固件包也放入此文件夹。<span lang="EN-US"><o:p></o:p></span></span></p>
+5.把X Neo重启到Bootloader模式。如果跟着上边步骤走的，那么已经有TWRP，只需按住电源按钮和音量减按钮，就可以重启到recovery，然后再重启至Bootloader。如果还没有TWRP，那么就进系统，先启用ADB，然后允许调试，并发送“ADB reboot bootloader”添加到它。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">5.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">把<span lang="EN-US">X Neo</span>重启到<span lang="EN-US">Bootloader</span>模式。如果跟着上边步骤走的，那么已经有<span lang="EN-US">TWRP</span>，只需按住电源按钮和音量减按钮，就可以重启到<span lang="EN-US">recovery</span>，然后<span class="GramE">再重启至</span><span lang="EN-US">Bootloader</span>。如果还没有<span lang="EN-US">TWRP</span>，那么就进系统，先启用<span lang="EN-US">ADB</span>，然后允许调试，并发送<span lang="EN-US">“ADB reboot bootloader”</span>添加到它。<span lang="EN-US"><o:p></o:p></span></span></p>
+6.双击运行“**打开CMD命令行.bat**”。根据提示输入，例如“fastboot flash system StagOS-12.1_arm64-bvN-UNOFFICIAL.img”，输入完成点击回车。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">6.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">双击运行“<b><span style="background:lightgrey;mso-highlight:lightgrey">打开<span lang="EN-US">CMD</span>命令行<span lang="EN-US">.bat</span></span></b>”。根据提示输入，例如“<span class="SpellE"><span lang="EN-US">fastboot</span></span><span lang="EN-US"> flash system StagOS-12.1_arm64-bvN-UNOFFICIAL.img</span>”，输入完成点击回车。<span lang="EN-US"><o:p></o:p></span></span></p>
+7.之后会刷入GSI固件，耐心等。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">7.</span><span class="GramE"><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">之后会刷入</span></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">GSI</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">固件，耐心等。<span lang="EN-US"><o:p></o:p></span></span></p>
+8.等待刷入完成输入“fastboot -w”回车，然后输入“fastboot reboot” 回车。
 
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">8.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">等待刷入完成输入“<span class="SpellE"><span lang="EN-US">fastboot</span></span><span lang="EN-US"> -w</span>”回车，然后输入“<span class="SpellE"><span lang="EN-US">fastboot</span></span><span lang="EN-US"> reboot</span>”
-回车。<span lang="EN-US"><o:p></o:p></span></span></p>
-
-<p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">9.</span><span style="mso-bidi-font-size:10.5pt;font-family:"微软雅黑",sans-serif">回车之后等待进入系统就可以了，<span lang="EN-US">GSI</span>为通用刷机包，是否能正常使用得看运气，或者参考<span class="GramE">上边我</span>测试的名单。<span lang="EN-US"><o:p></o:p></span></span></p>
-
-</div>
+9.回车之后等待进入系统就可以了，GSI为通用刷机包，是否能正常使用得看运气，或者参考上边我测试的名单。
