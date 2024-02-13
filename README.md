@@ -2,14 +2,14 @@
 
 测试列表[点此](https://github.com/a776058959/XneoROM-Test/blob/main/Testlist.md)打开
 
-## 教程正文
+## GSI固件安装教程正文
 
 **以下教程出自hardforum网站，本文为个人翻译和修改，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
 
 **由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。**
 
 - [X NEO GSI 测试列表](#x-neo-gsi-测试列表)
-  - [教程正文](#教程正文)
+  - [GSI固件安装教程正文](#gsi固件安装教程正文)
   - [基础固件刷入（EMMC版本MiFlash刷入）](#基础固件刷入emmc版本miflash刷入)
   - [刷入GSI 固件](#刷入gsi-固件)
 
