@@ -1,6 +1,6 @@
 # X NEO GSI 测试列表
 
-测试列表[点此](https://github.com/a776058959/XneoROM-Test/Testlist.md)打开
+测试列表[点此](https://github.com/a776058959/XneoROM-Test/blob/main/Testlist.md)打开
 
 ## 教程正文
 
