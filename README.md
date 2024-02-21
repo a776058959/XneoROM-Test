@@ -4,7 +4,7 @@ GSI固件,个人测试列表[点此](https://github.com/a776058959/XneoROM-Test/
 
 ## GSI固件安装教程正文
 
-**以下教程出自hardforum网站，本文为个人翻译和修改，本人英语苦手，如跟着教程依然不能刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问原帖地址。**
+**以下教程为个人编辑和整理，部分教程和固件出自hardforum网站，如跟着本教程依然不能正常刷机，请点[此](https://hardforum.com/threads/alldocube-x-neo.1998171/)访问hardforum地址直接查看英文帖。**
 
 **由于原作者[MEGA](https://mega.nz/folder/T8EASYRa#SJOqxo75C0MZ59t7sqYW9A/file/H1VgQZqJ)网盘国内无法访问，以下用到的链接替换为国内网盘地址。**
 
