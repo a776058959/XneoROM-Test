@@ -1,3 +1,4 @@
+Xneo 刷机，XNEO刷机，xneo刷机，X NEO刷机
 # X NEO GSI 测试列表
 
 GSI固件,个人测试列表[点此](https://github.com/a776058959/XneoROM-Test/blob/main/Testlist.md)打开查看
