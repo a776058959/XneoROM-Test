@@ -51,7 +51,7 @@ GSI固件,个人测试列表[点此](https://github.com/a776058959/XneoROM-Test/
 
 18.刷机完成之后，准备工作就到此完成，如果想用官方系统，那就到此为止按住电源键重启即可，如果想刷GSI那就继续往下看。
 
-19.按住音量下+电源键，平板会反复出现开机画面1~3次，直到出现开机画面之后3~5秒不再重启，此时松开两个按键机器会进入到Recovery模式，然后Recovery里面重启到Fastboot模式。
+19.按住音量下+电源键，平板会反复出现开机画面1-3次，直到出现开机画面之后3-5秒不再重启，此时松开两个按键机器会进入到Recovery模式，然后Recovery里面重启到Fastboot模式。
 
 ## 刷入GSI 固件
 
@@ -61,7 +61,7 @@ GSI固件,个人测试列表[点此](https://github.com/a776058959/XneoROM-Test/
 
 3.将下载的GSI固件解压，把里面xxxx.img名字的固件包也放入此文件夹。
 
-4.把X Neo重启到Bootloader模式。如果跟着上边步骤走的，那么已经有TWRP Recovery，只需按住 电源+音量减 按钮，平板会反复出现开机画面1~3次，直到出现开机画面之后2~4秒不再重启，此时松开两个按键机器会进入到Recovery模式，然后Recovery里面重启到Fastboot模式。如果没有跟着上边步骤而是自己解锁的，那么还没有TWRP，可以先正常进系统，启用ADB后允许调试，电脑上命令行输入“ADB reboot bootloader”启动到fastboot模式。
+4.把X Neo重启到Bootloader模式。如果跟着上边步骤走的，那么已经有TWRP Recovery，只需按住 电源+音量减 按钮，平板会反复出现开机画面1-3次，直到出现开机画面之后2-4秒不再重启，此时松开两个按键机器会进入到Recovery模式，然后Recovery里面重启到Fastboot模式。如果没有跟着上边步骤而是自己解锁的，那么还没有TWRP，可以先正常进系统，启用ADB后允许调试，电脑上命令行输入“ADB reboot bootloader”启动到fastboot模式。
 
 5.双击运行“**打开CMD命令行.bat**”。根据提示输入，例如“fastboot flash system StagOS-12.1_arm64-bvN-UNOFFICIAL.img”，输入完成点击回车。
 
