@@ -51,8 +51,6 @@ GSI固件,个人测试列表[点此](https://github.com/a776058959/XneoROM-Test/
 
 18.刷机完成之后，准备工作就到此完成，如果想用官方系统，那就到此为止按住电源键重启即可，如果想刷GSI那就继续往下看。
 
-19.按住音量下+电源键，平板会反复出现开机画面1-3次，直到出现开机画面之后3-5秒不再重启，此时松开两个按键机器会进入到Recovery模式，然后Recovery里面重启到Fastboot模式。
-
 ## 刷入GSI 固件
 
 1.下载[ADB](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)工具包 并解压后进入该文件夹，然后下载[批处理-飞猫盘](https://www.feimaoyun.com/s/z38ea7)或[批处理-Github](https://github.com/a776058959/XneoROM-Test/blob/main/%E6%89%93%E5%BC%80CMD%E5%91%BD%E4%BB%A4%E8%A1%8C.rar)并解压放入ADB工具包文件夹。
