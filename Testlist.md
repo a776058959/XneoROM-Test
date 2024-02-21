@@ -22,7 +22,7 @@
 | [Miku UI SnowLand 0.7.0(PHH V415)](https://github.com/xiaoleGun/treble_build_miku/releases/download/0.7.0/MikuUI-SNOWLAND-0.7.0-arm64-ab-20220725-UNOFFICIAL.img.xz) | Android12 | 能开机，相机不能用，内部存储无法识别导致相册和文件管理器和微信等需要存储访问权限的功能都用不了 |
 | [lineage-19.1-20221122-UNOFFICIAL-arm64_bvS](https://jaist.dl.sourceforge.net/project/andyyan-gsi/lineage-19.x/lineage-19.1-20221122-UNOFFICIAL-arm64_bvS.img.xz) | Android12 | 目前正常使用,偶尔wifi抽风 |
 |  |  |  |
-| crdrom-v316-220330-arm64-bvZ-lite | Android11 | 目前正常使用 |
+| [crdrom-v316-220330-arm64-bvZ-lite](https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/) | Android11 | 目前正常使用 |
 | crdrom-v315+220220-arm64-bvZ | Android11 | 能开机，跳过wifi设置可以进系统，但是无法连接wifi，连接之后设置无限FC |
 | caos-v316-220321-arm64-bvZ | Android11 | wifi偶尔抽风搜不到5Gwifi，相机存储声音正常 |
 | lineage-16.0-20200516-UNOFFICIAL-t1009 | Android9 | 目前正常使用 |
